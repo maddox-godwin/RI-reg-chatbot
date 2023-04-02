@@ -7,7 +7,7 @@ from google_auth_oauthlib.flow import InstalledAppFlow
 from llama_index import GPTSimpleVectorIndex, download_loader
 
 
-os.environ['OPENAI_API_KEY'] = 'SET-YOUR-OPEN-AI-API-KEY'
+os.environ['OPENAI_API_KEY'] = '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'
 
 
 def authorize_gdocs():
